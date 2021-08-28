@@ -6,7 +6,7 @@ Transforms the Discord notifications send by the Wick Hunter bot to whatever you
 Below are two included examples.  
 
 ### Simple
-![simple message](https://raw.github.com/LompeBoer/wh-webhook/messages/simple/_example.png)  
+![simple message](https://raw.githubusercontent.com/LompeBoer/wh-webhook/main/messages/simple/_example.png)  
 
 ### Rich
-![rich message](https://raw.github.com/LompeBoer/wh-webhook/messages/rich/_example.png)  
+![rich message](https://github.com/LompeBoer/wh-webhook/raw/main/messages/rich/_example.png)  
