@@ -1,0 +1,9 @@
+{
+    "embeds": [
+        {
+            "color": 16776960,
+            "title": "'${MESSAGE_NUMBER}' DCA #${POSITION_NUMBER} Opened",
+            "description": "Pair: ${PAIR}\nDirection: ${DIRECTION}\nNumber of Buys: ${NUMBER_OF_BUYS}"
+        }
+    ]
+}

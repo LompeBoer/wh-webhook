@@ -1,0 +1,9 @@
+{
+    "embeds": [
+        {
+            "color": 3066993,
+            "title": "'${MESSAGE_NUMBER}' Position #${POSITION_NUMBER} Closed!",
+            "description": "Pair: ${PAIR}\nDirection: ${DIRECTION}\nProfit: ${PROFIT}\nNumber of Buys: ${NUMBER_OF_BUYS}"
+        }
+    ]
+}

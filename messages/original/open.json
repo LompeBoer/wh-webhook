@@ -1,0 +1,9 @@
+{
+    "embeds": [
+        {
+            "color": 3447003,
+            "title": "'${MESSAGE_NUMBER}' Position #${POSITION_NUMBER} Opened",
+            "description": "Pair: ${PAIR}\nDirection: ${DIRECTION}"
+        }
+    ]
+}

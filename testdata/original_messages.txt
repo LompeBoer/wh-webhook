@@ -1,0 +1,17 @@
+{"content":"'1' Bot Started"}
+
+{"embeds":[{"color":3447003,"title":"'2' Position #1 Opened","description":"Pair: DOTUSDT\nDirection: Long"}]}
+
+{"embeds":[{"color":3447003,"title":"'3' Position #1 Opened","description":"Pair: BZRXUSDT\nDirection: Long"}]}
+
+{"embeds":[{"color":16776960,"title":"'4' DCA #1 Opened","description":"Pair: DOTUSDT\nDirection: Long\nNumber of Buys: 2"}]}
+
+{"embeds":[{"color":3066993,"title":"'5' Position #1 Closed!","description":"Pair: BZRXUSDT\nDirection: Long\nProfit: 0.113\nNumber of Buys: 1"}]}
+
+{"embeds":[{"color":15158332,"title":"'73' Skipped: Isolation Mode."}]}
+
+
+
+{"embeds":[{"color":3066993,"title":"'72' Position #2 Closed!","description":"Pair: ALGOUSDT\nDirection: Long\nProfit: 0.721\nNumber of Buys: 6"}]}
+
+{"embeds":[{"color":16776960,"title":"'71' DCA #4 Opened","description":"Pair: BZRXUSDT\nDirection: Long\nNumber of Buys: 12"}]}

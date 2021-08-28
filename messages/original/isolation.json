@@ -1,0 +1,8 @@
+{
+    "embeds": [
+        {
+            "color": 15158332,
+            "title": "'${MESSAGE_NUMBER}' Skipped: Isolation Mode."
+        }
+    ]
+}

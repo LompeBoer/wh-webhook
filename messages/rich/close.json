@@ -1,0 +1,17 @@
+{
+    "embeds": [
+        {
+            "color": 3066993,
+            "title": "'${MESSAGE_NUMBER}' Trade Closed",
+            "description": "${PAIR}",
+            "fields": [
+                {"name": "Direction", "value": "${DIRECTION}", "inline": true},
+                {"name": "Position", "value": "${POSITION_NUMBER}", "inline": true},
+                {"name": "\u200b", "value":"\u200b", "inline": true},
+                {"name": "Profit", "value": "${PROFIT}", "inline": true},
+                {"name": "Buy count", "value": "${NUMBER_OF_BUYS}", "inline": true},
+                {"name": "\u200b", "value":"\u200b", "inline": true}
+            ]
+        }
+    ]
+}

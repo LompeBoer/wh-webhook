@@ -1,0 +1,9 @@
+{
+    "embeds": [
+        {
+            "color": 16776960,
+            "title": null,
+            "description": "**DCA:** ${PAIR} **Direction:** ${DIRECTION} **Buy count:** ${NUMBER_OF_BUYS}"
+        }
+    ]
+}

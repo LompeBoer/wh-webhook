@@ -1,0 +1,8 @@
+{
+    "embeds": [
+        {
+            "color": 3447003,
+            "title": "'${MESSAGE_NUMBER}' Bot started."
+        }
+    ]
+}
